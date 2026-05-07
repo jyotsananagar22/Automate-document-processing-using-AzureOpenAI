@@ -249,7 +249,7 @@ In this task, you will be using Azure Functions to process documents that are up
 
    - Select a storage account type for development → choose **Use Azure Storage for remote storage** and select **storage<inject key="Deployment ID" enableCopy="false"/>** → then select the name of the storage **input** container. Press **Enter** to confirm.
   
-     **>Note:** If you are unable to select **Use Azure Storage for remote storage** and see "No subscription found", please reperform Steps 5–6 (including all sub-steps). After completing them again, you should be able to see Use Azure Storage for remote storage.
+     >**Note:** If you are unable to select **Use Azure Storage for remote storage** and see "No subscription found", please reperform Steps 5–6 (including all sub-steps). After completing them again, you should be able to see Use Azure Storage for remote storage.
 
      ![](images/116.png)
 
